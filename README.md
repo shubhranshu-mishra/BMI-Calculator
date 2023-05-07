@@ -12,3 +12,5 @@ BMI Score with meaning:
 - 25 to 29.9 - Overweight
 - 30 to 34.4 - Obesity
 - 35 to 39.9 - Extreme obesity
+
+### Done by Shubhranshu Mishra (Github: shubhranshu-mishra)
