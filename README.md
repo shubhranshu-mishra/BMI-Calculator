@@ -1,4 +1,4 @@
-# BMI Calculator
+# BMI Calculator (using Python)
 
 The BMI calculator is a program developed using the Python programming language that allows users to calculate their Body Mass Index (BMI) based on their height and weight. 
 
